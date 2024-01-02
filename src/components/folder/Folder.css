@@ -1,0 +1,15 @@
+.folder_wrapper{
+    height: 80px;
+    width: 180px;
+    border-radius: 8px;
+    
+    background-color: red;
+    position: absolute;
+    top: 10px;
+    right: 200px;
+      
+}
+
+.folder_wrapper p {
+    font-weight: bold;
+}
